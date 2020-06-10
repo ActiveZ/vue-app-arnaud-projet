@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: 'https://activez.github.io/vue-app-arnaud-projet/'
+    publicPath: 'https://activez.github.io/vue-app/'
   }
   
